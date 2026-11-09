@@ -1,4 +1,4 @@
-package com.uptc.grpcmsg.clientes_service;
+package com.uptc.grpcmsg.clientesservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
